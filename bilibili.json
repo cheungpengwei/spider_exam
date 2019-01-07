@@ -1,0 +1,1037 @@
+ {
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+        "archives": [{
+            "aid": 40092103,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i0.hdslb.com/bfs/archive/06dfbf8af7ec14133dca4521fb27d6ab51ade266.jpg",
+            "title": "【10月】弦音 -风舞高中弓道部- 11【独家正版】",
+            "pubdate": 1546794600,
+            "ctime": 1546794600,
+            "desc": "#11",
+            "state": 0,
+            "attribute": 338688,
+            "duration": 1441,
+            "redirect_url": "http://www.bilibili.com/bangumi/play/ep251126/",
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 1,
+                "hd5": 1,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 928123,
+                "name": "哔哩哔哩番剧",
+                "face": "http://i2.hdslb.com/bfs/face/60a9153609998b04301dc5b8ed44c41b537a2268.jpg"
+            },
+            "stat": {
+                "aid": 40092103,
+                "view": 23844,
+                "danmaku": 961,
+                "reply": 714,
+                "favorite": 2,
+                "coin": 365,
+                "share": 76,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 610,
+                "dislike": 0
+            },
+            "dynamic": "",
+            "cid": 70414088,
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40099971,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i0.hdslb.com/bfs/archive/fefd5313d898a9311b2e0fed497018f55f5c704f.jpg",
+            "title": "【1月】笨拙之极的上野 01【独家正版】",
+            "pubdate": 1546791300,
+            "ctime": 1546791300,
+            "desc": "#01",
+            "state": 0,
+            "attribute": 76544,
+            "duration": 691,
+            "redirect_url": "http://www.bilibili.com/bangumi/play/ep259596/",
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 1,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 928123,
+                "name": "哔哩哔哩番剧",
+                "face": "http://i2.hdslb.com/bfs/face/60a9153609998b04301dc5b8ed44c41b537a2268.jpg"
+            },
+            "stat": {
+                "aid": 40099971,
+                "view": 174544,
+                "danmaku": 4490,
+                "reply": 2741,
+                "favorite": 4,
+                "coin": 2991,
+                "share": 1372,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 955,
+                "dislike": 0
+            },
+            "dynamic": "",
+            "cid": 70427675,
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40082047,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i0.hdslb.com/bfs/archive/7badde33350f6672a710cd0ab016e4afd71aec67.jpg",
+            "title": "【1月】多罗罗 01【独家正版】",
+            "pubdate": 1546786800,
+            "ctime": 1546784874,
+            "desc": "#01",
+            "state": 0,
+            "attribute": 338688,
+            "duration": 1452,
+            "redirect_url": "http://www.bilibili.com/bangumi/play/ep259699/",
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 1,
+                "hd5": 1,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 928123,
+                "name": "哔哩哔哩番剧",
+                "face": "http://i2.hdslb.com/bfs/face/60a9153609998b04301dc5b8ed44c41b537a2268.jpg"
+            },
+            "stat": {
+                "aid": 40082047,
+                "view": 217857,
+                "danmaku": 9838,
+                "reply": 7726,
+                "favorite": 8,
+                "coin": 7578,
+                "share": 2889,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 1149,
+                "dislike": 0
+            },
+            "dynamic": "",
+            "cid": 70395862,
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40062530,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i2.hdslb.com/bfs/archive/ac49bb1cdb123b946c020fe9404729524cffbe3a.jpg",
+            "title": "【7月】告诉我魔法灵摆 莉露莉露妖精莉露23【雪飘】",
+            "pubdate": 1546779859,
+            "ctime": 1546779859,
+            "desc": "23#雪飘",
+            "state": 0,
+            "attribute": 16384,
+            "duration": 771,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 14753304,
+                "name": "妹妹的那块布很香",
+                "face": "http://i2.hdslb.com/bfs/face/329fdc7943fc42704cc9b277ace86e42582c96ae.jpg"
+            },
+            "stat": {
+                "aid": 40062530,
+                "view": 520,
+                "danmaku": 0,
+                "reply": 6,
+                "favorite": 9,
+                "coin": 7,
+                "share": 1,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 94,
+                "dislike": 0
+            },
+            "dynamic": "#七月新番##妖精莉露##日本动画#",
+            "cid": 70361641,
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40068432,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i2.hdslb.com/bfs/archive/d70839248738ed26a6483aeaf4cdd96d6045d2f6.png",
+            "title": "【WEB动画/生肉】机械手臂(Mecha-Ude Pilot) 01",
+            "pubdate": 1546779838,
+            "ctime": 1546779838,
+            "desc": "直传\n《MECHA-UDE》动画是 TriF Studio 推出的原创动画，故事大致是男主角在某天遇到了来自异世界的机械臂 MECHA-UDE，这条机械臂拥有自主意识寄居在男主角的兜帽之中，一人一臂就开始了奇妙的共存生活。，而男主角则是有一位同样拥有  MECHA-UDE 的妹子来帮助他，女主角的  MECHA-UDE 平时是寄居在裙子中，一旦使用时妹子的裙下就会突然伸出来两条巨大的机械臂，男主角和女主角在战斗中羁绊加深感情增进。",
+            "state": 0,
+            "attribute": 16384,
+            "duration": 1568,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 6087498,
+                "name": "F宅字幕组",
+                "face": "http://i1.hdslb.com/bfs/face/a406430ad93f7275a00b4dbe9c00c62f9ec39dad.gif"
+            },
+            "stat": {
+                "aid": 40068432,
+                "view": 4134,
+                "danmaku": 19,
+                "reply": 28,
+                "favorite": 163,
+                "coin": 20,
+                "share": 19,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 200,
+                "dislike": 0
+            },
+            "dynamic": "",
+            "cid": 70371309,
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40075777,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i2.hdslb.com/bfs/archive/4f70c6641fc801b6b0efb094e3bebe2556bf88a7.jpg",
+            "title": "【ViuTV粤语】三年E班 第二季 13",
+            "pubdate": 1546779829,
+            "ctime": 1546779830,
+            "desc": "viu\n逢星期六11:00播放",
+            "state": 0,
+            "attribute": 16384,
+            "duration": 1492,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 931339,
+                "name": "Kencola",
+                "face": "http://i2.hdslb.com/bfs/face/1f4f9eb444cd77164413ca096f523c8e55dca89a.jpg"
+            },
+            "stat": {
+                "aid": 40075777,
+                "view": 784,
+                "danmaku": 0,
+                "reply": 5,
+                "favorite": 10,
+                "coin": 8,
+                "share": 3,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 32,
+                "dislike": 0
+            },
+            "dynamic": "#日本动画##三年E班##ViuTV粤语#",
+            "cid": 70382231,
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40075950,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i1.hdslb.com/bfs/archive/c27751a7bcdaf318bdb4ffd12b7fdb9fb8225c76.jpg",
+            "title": "【10月】RWBY 第六季 10【傲娇零】",
+            "pubdate": 1546779729,
+            "ctime": 1546779729,
+            "desc": "https://roosterteeth.com/series/rwby\nRWBY Volume 6 by Rooster Teeth工作室\n更新：每周日（停播见官推）\n字幕组联系方式：UP个性签名\n感谢kid姐的援♂助♀！",
+            "state": 0,
+            "attribute": 16640,
+            "duration": 833,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 1,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 561332,
+                "name": "Kasei",
+                "face": "http://i2.hdslb.com/bfs/face/5ea8ce2534c29c96c96fc683a792d2d3fab47d77.jpg"
+            },
+            "stat": {
+                "aid": 40075950,
+                "view": 22920,
+                "danmaku": 750,
+                "reply": 555,
+                "favorite": 228,
+                "coin": 659,
+                "share": 98,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 1206,
+                "dislike": 0
+            },
+            "dynamic": "#TV动画##动画##RWBY系列#",
+            "cid": 70382322,
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40076333,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i1.hdslb.com/bfs/archive/a6c5f4f8882b9b9a237c4a1798971e95a44fa76b.jpg",
+            "title": "【1月】四月是你的谎言 01【粤语中字】",
+            "pubdate": 1546779723,
+            "ctime": 1546779723,
+            "desc": "合成~逢週日 翡翠台10:30播放~",
+            "state": 0,
+            "attribute": 16384,
+            "duration": 1375,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 112244787,
+                "name": "粵睇粵有味",
+                "face": "http://i1.hdslb.com/bfs/face/1ec0b9f84f9761f0eb50694bbec1268748f0246c.jpg"
+            },
+            "stat": {
+                "aid": 40076333,
+                "view": 1845,
+                "danmaku": 5,
+                "reply": 51,
+                "favorite": 45,
+                "coin": 21,
+                "share": 15,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 66,
+                "dislike": 0
+            },
+            "dynamic": "#同人配音##粤语##TVB#\n代投，合成，使用XYCC-SumiSora片源\n逢週日翡翠台 10:30播放~",
+            "cid": 70385415,
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40075320,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i1.hdslb.com/bfs/archive/7347555fb73fbb770d7d4100a0c1e6c9373f3953.jpg",
+            "title": "【WEB动画】机械手臂(Mecha-Ude Pilot) 01【F宅/1080P+】",
+            "pubdate": 1546779664,
+            "ctime": 1546779665,
+            "desc": "直传\n【女孩的裙子下边到底藏着什么呢？可能是啪唧伸出来的机械臂哦】【这部原创动画企划的主导者和监督是女性动画制作者岡本紗枝，曾经推出过自主制作动画，《MECHA-UDE》因为达成筹款目标，制作了 25 分钟的动画，不过这部原创动画的系列动画应该板上钉钉了。】",
+            "state": 0,
+            "attribute": 16640,
+            "duration": 1568,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 1,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 223902,
+                "name": "空灵雨迹",
+                "face": "http://i0.hdslb.com/bfs/face/c756d67974e6c103ab71fd72a66f542e6e541e9e.jpg"
+            },
+            "stat": {
+                "aid": 40075320,
+                "view": 8040,
+                "danmaku": 107,
+                "reply": 130,
+                "favorite": 683,
+                "coin": 186,
+                "share": 84,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 795,
+                "dislike": 0
+            },
+            "dynamic": "",
+            "cid": 70383710,
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40083873,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i0.hdslb.com/bfs/archive/ee0b28b8face8af345e730b6d20f6e52bc994328.jpg",
+            "title": "【生肉】精靈寶可夢太陽與月亮SM-第103集-擊碎岩石的熱血之心!麗姿和小剛!!",
+            "pubdate": 1546779624,
+            "ctime": 1546779624,
+            "desc": "自錄\n阿羅拉!2019的第一集新年快樂!\n精靈寶可夢太陽與月亮(日月)(神奇寶貝、寵物小精靈) Pokémon Sun \u0026 Moon(SM)\n第102集-阿羅拉，阿羅拉!小剛與小霞!!\n下集預告:第103集-一顆足以擊碎岩石的熱血的心，麗姿和小剛！\n[喜歡的話可以投幣收藏加關注頻道喔!]",
+            "state": 0,
+            "attribute": 16384,
+            "duration": 1819,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 21424551,
+                "name": "坂田楠雄",
+                "face": "http://i2.hdslb.com/bfs/face/90d6aca371722f9e1ca4577c11cef3cf594c4a26.jpg"
+            },
+            "stat": {
+                "aid": 40083873,
+                "view": 3648,
+                "danmaku": 86,
+                "reply": 49,
+                "favorite": 25,
+                "coin": 25,
+                "share": 4,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 76,
+                "dislike": 0
+            },
+            "dynamic": "#神奇寶貝##太陽##月亮#",
+            "cid": 70397930,
+            "dimension": {
+                "width": 720,
+                "height": 404,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40088991,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i2.hdslb.com/bfs/archive/57fc6b994fc699d501ddc8fc4cf522fb80baf5af.jpg",
+            "title": "【台配国语】见习神明 秘密的cocotama第61集",
+            "pubdate": 1546779600,
+            "ctime": 1546779600,
+            "desc": "直传\n日本大型玩具公司万代于本日宣布了动画「见习神仙 秘密心灵（かみさまみならい ヒミツのここたま）」将于2015年秋季开始播出的消息。于2015年10月1日开始在东京电视台等频道播出。",
+            "state": 0,
+            "attribute": 16384,
+            "duration": 1341,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 622689,
+                "name": "喜欢动画片",
+                "face": "http://static.hdslb.com/images/member/noface.gif"
+            },
+            "stat": {
+                "aid": 40088991,
+                "view": 111,
+                "danmaku": 7,
+                "reply": 1,
+                "favorite": 4,
+                "coin": 1,
+                "share": 0,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 7,
+                "dislike": 0
+            },
+            "dynamic": "",
+            "cid": 70408197,
+            "dimension": {
+                "width": 1272,
+                "height": 702,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40085256,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i2.hdslb.com/bfs/archive/bc3749d9db6da124dad88b60b4ea653f534bf4f3.jpg",
+            "title": "【OVA】侦探歌剧 少女福尔摩斯 心灵的问候【桜都字幕组】",
+            "pubdate": 1546779594,
+            "ctime": 1546771564,
+            "desc": "[桜都字幕组][侦探歌剧 少女福尔摩斯 心灵的问候/Tantei Opera Milky Holmes Psycho no Aisatsu[OVA][CHS][720P]\n您的视频中【9:26-9:30】含有低俗内容已经修改。",
+            "state": 0,
+            "attribute": 16384,
+            "duration": 1433,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 8026932,
+                "name": "不好不败",
+                "face": "http://i2.hdslb.com/bfs/face/059393ab11f22717cbc95d0342d7e23a07bbacd7.jpg"
+            },
+            "stat": {
+                "aid": 40085256,
+                "view": 1018,
+                "danmaku": 24,
+                "reply": 24,
+                "favorite": 49,
+                "coin": 38,
+                "share": 9,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 43,
+                "dislike": 0
+            },
+            "dynamic": "#侦探歌剧 少女福尔摩斯##侦探歌剧##少女福尔摩斯#",
+            "cid": 70409817,
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40056711,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i1.hdslb.com/bfs/archive/6b282e51fce08a19c609a1542cc6295651f2abd4.jpg",
+            "title": "【4月】博人传 火影忍者新时代 88",
+            "pubdate": 1546767000,
+            "ctime": 1546767000,
+            "desc": "#88",
+            "state": 0,
+            "attribute": 338688,
+            "duration": 1435,
+            "redirect_url": "http://www.bilibili.com/bangumi/play/ep251465/",
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 1,
+                "hd5": 1,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 21453565,
+                "name": "TV-TOKYO",
+                "face": "http://i0.hdslb.com/bfs/face/69ef6861067d6ef637b7c73b77d71c3414996745.jpg"
+            },
+            "stat": {
+                "aid": 40056711,
+                "view": 90824,
+                "danmaku": 2293,
+                "reply": 890,
+                "favorite": 1,
+                "coin": 608,
+                "share": 43,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 132,
+                "dislike": 0
+            },
+            "dynamic": "",
+            "cid": 70351840,
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40040747,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i0.hdslb.com/bfs/archive/ddf78dda65e5e56064391fcacf73f5669f119006.jpg",
+            "title": "【12月】我的英雄学院 第二季 05【粤语中字】",
+            "pubdate": 1546754424,
+            "ctime": 1546745469,
+            "desc": "合成~有字幕的为WMXZ片源",
+            "state": 0,
+            "attribute": 16384,
+            "duration": 1430,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 112244787,
+                "name": "粵睇粵有味",
+                "face": "http://i1.hdslb.com/bfs/face/1ec0b9f84f9761f0eb50694bbec1268748f0246c.jpg"
+            },
+            "stat": {
+                "aid": 40040747,
+                "view": 1983,
+                "danmaku": 1,
+                "reply": 13,
+                "favorite": 12,
+                "coin": 8,
+                "share": 3,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 30,
+                "dislike": 0
+            },
+            "dynamic": "#同人配音##粤语##TVB#",
+            "cid": 70324296,
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40045020,
+            "videos": 3,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i2.hdslb.com/bfs/archive/f5c61a4660d9101b3ad430ffd7e789f859be187c.jpg",
+            "title": "【720P】秘密三人组10-12【人人字幕】",
+            "pubdate": 1546746954,
+            "ctime": 1546746954,
+            "desc": "人人影视",
+            "state": 0,
+            "attribute": 16384,
+            "duration": 4005,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 211520774,
+                "name": "科尼利厄斯",
+                "face": "http://i2.hdslb.com/bfs/face/da1c4f205aa9288864f575738bfb64710326e4d5.jpg"
+            },
+            "stat": {
+                "aid": 40045020,
+                "view": 807,
+                "danmaku": 0,
+                "reply": 9,
+                "favorite": 5,
+                "coin": 5,
+                "share": 0,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 7,
+                "dislike": 0
+            },
+            "dynamic": "#美漫##动漫##战斗#",
+            "cid": 70205859,
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40028403,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i0.hdslb.com/bfs/archive/dea7f2fc40c9ab015b73205aad3cbd7147d8c6a8.jpg",
+            "title": "【1月/生肉】迷你刀使 00话",
+            "pubdate": 1546746909,
+            "ctime": 1546746909,
+            "desc": "网络\n#迷你刀使 00话",
+            "state": 0,
+            "attribute": 16384,
+            "duration": 211,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 930099,
+                "name": "果厨果厨果",
+                "face": "http://i0.hdslb.com/bfs/face/52c972862179ac018bfe3354508e8ca6eca0fe89.jpg"
+            },
+            "stat": {
+                "aid": 40028403,
+                "view": 1145,
+                "danmaku": 3,
+                "reply": 8,
+                "favorite": 14,
+                "coin": 10,
+                "share": 4,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 69,
+                "dislike": 0
+            },
+            "dynamic": "#迷你刀使# 00话",
+            "cid": 70302940,
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40025977,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i0.hdslb.com/bfs/archive/b9820b14ca257d03dc621d61dd66b24c6dff315e.jpg",
+            "title": "【7月】索斯机械兽 ZOIDS WILD 25 妹妹哟！三角龙的咆哮",
+            "pubdate": 1546746783,
+            "ctime": 1546746783,
+            "desc": "https://nyaa.si/view/1104562\n剑龙三角龙我全都要（￣▽￣）",
+            "state": 0,
+            "attribute": 16384,
+            "duration": 1493,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 452690,
+                "name": "欣然看闲蝶",
+                "face": "http://i0.hdslb.com/bfs/face/38ef2945443b332423a3c32f20d82148015b5c21.jpg"
+            },
+            "stat": {
+                "aid": 40025977,
+                "view": 1325,
+                "danmaku": 0,
+                "reply": 2,
+                "favorite": 2,
+                "coin": 3,
+                "share": 2,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 19,
+                "dislike": 0
+            },
+            "dynamic": "#索斯机械兽##zoids##小野贤章#",
+            "cid": 70295907,
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40002813,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i0.hdslb.com/bfs/archive/08298fe1ce1c4d3489724012ba2de75f81bcf344.jpg",
+            "title": "【7月】白鼬与睡鼠 24【爱吧字幕组】",
+            "pubdate": 1546746747,
+            "ctime": 1546746747,
+            "desc": "一长一短#24\n长的和短的第二十四话",
+            "state": 0,
+            "attribute": 16640,
+            "duration": 61,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 1,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 781099,
+                "name": "降幡爱贴吧字幕组",
+                "face": "http://i0.hdslb.com/bfs/face/c81d1985f9d72a99fca6a2764f417732de657317.jpg"
+            },
+            "stat": {
+                "aid": 40002813,
+                "view": 853,
+                "danmaku": 0,
+                "reply": 12,
+                "favorite": 35,
+                "coin": 28,
+                "share": 3,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 78,
+                "dislike": 0
+            },
+            "dynamic": "#TV动画##新田惠海##降幡爱#",
+            "cid": 70260585,
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40002588,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i1.hdslb.com/bfs/archive/d05e0c8b53f6e19a758abf0d036821227d16a988.jpg",
+            "title": "【7月】白鼬与睡鼠 23【爱吧字幕组】",
+            "pubdate": 1546746741,
+            "ctime": 1546746741,
+            "desc": "一长一短#23\n长的和短的第二十三话",
+            "state": 0,
+            "attribute": 16640,
+            "duration": 61,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 1,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 781099,
+                "name": "降幡爱贴吧字幕组",
+                "face": "http://i0.hdslb.com/bfs/face/c81d1985f9d72a99fca6a2764f417732de657317.jpg"
+            },
+            "stat": {
+                "aid": 40002588,
+                "view": 616,
+                "danmaku": 1,
+                "reply": 8,
+                "favorite": 25,
+                "coin": 24,
+                "share": 2,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 52,
+                "dislike": 0
+            },
+            "dynamic": "#TV动画##白鼬与睡鼠##オコジョとヤマネ#",
+            "cid": 70260253,
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }, {
+            "aid": 40034703,
+            "videos": 1,
+            "tid": 33,
+            "tname": "连载动画",
+            "copyright": 2,
+            "pic": "http://i0.hdslb.com/bfs/archive/27a1d216f25cf59d7b42822783bdd1f839bc4773.jpg",
+            "title": "【1月】少年正义联盟：局外人 S03E01【SLOMO听译】",
+            "pubdate": 1546745563,
+            "ctime": 1546745564,
+            "desc": "直传\n元老离职？！",
+            "state": 0,
+            "attribute": 16384,
+            "duration": 1446,
+            "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 1,
+                "ugc_pay": 0,
+                "is_cooperation": 0
+            },
+            "owner": {
+                "mid": 138252,
+                "name": "Lu小鱼",
+                "face": "http://i0.hdslb.com/bfs/face/e1561ba5d9876418db0b5c096275332d4392655a.jpg"
+            },
+            "stat": {
+                "aid": 40034703,
+                "view": 20068,
+                "danmaku": 1250,
+                "reply": 655,
+                "favorite": 1121,
+                "coin": 1040,
+                "share": 668,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 1636,
+                "dislike": 0
+            },
+            "dynamic": "元老离职？！",
+            "cid": 70314267,
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }],
+        "page": {
+            "count": 26465,
+            "num": 1,
+            "size": 20
+        }
+    }
+}
